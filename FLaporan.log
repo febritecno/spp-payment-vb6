@@ -1,0 +1,5 @@
+Line 345: Class Crystal.CrystalReport of control crtCetak was not a loaded control class.
+Line 348: The property name _ExtentX in crtCetak is invalid.
+Line 349: The property name _ExtentY in crtCetak is invalid.
+Line 350: The property name _Version in crtCetak is invalid.
+Line 351: The property name PrintFileLinesPerPage in crtCetak is invalid.
